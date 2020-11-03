@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: continue
+Implementation-Version: 1.0
+Built-By: yassi
+Implementation-Vendor-Id: tn.esprit.spring
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/continue
+Created-By: Maven Integration for Eclipse
+
